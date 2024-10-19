@@ -1,0 +1,2 @@
+# spellcheck-accuracy
+# spellcheck-accuracy
